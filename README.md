@@ -1,6 +1,6 @@
 # No Cap & Zombiebara Minigames
 
-This repo contains our minigames created for the UT Austin EGaDs Winter 2022 Mini Microjam using Unity and C#. 
+This repo contains our minigames created for the UT Austin EGaDs Winter 2022 Mega Micro Jam using Unity and C#. 
 
 **__Game Descriptions__** <br/>
 
